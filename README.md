@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao meu perfil 😁
-## 📩 Meu e-mail: matheus_henrique_9@hotmail.com
+## Meu e-mail: matheus_henrique_9@hotmail.com
 
  <div>
    <a href="https://github.com/matheushromao">
