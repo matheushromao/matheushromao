@@ -12,7 +12,7 @@
 - 👾 &nbsp; Além da programação também sou apaixonado por games, futebol e séries, são hábitos que costumo fazer quando tenho aquele tempo vago ou para desopilar a mente.
 - 🎸 &nbsp; Também sou toco alguns instrumentos como violão e contrabaixo no grupo de louvor da igreja que frequento, a honra e glória sejam para sempre a nosso Deus.
 
-<h2>⚔️ Tech Stack</h2>
+<h2>⚔️ Languague and Tools</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
