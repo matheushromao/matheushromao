@@ -28,11 +28,13 @@
 
 <h2>🚀 Meus Status </h2>
 
- <div>
-   <a href="https://github.com/matheushromao">
-   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=matheushromao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushromao&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushromao&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheushromao&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
     
 
  
