@@ -7,20 +7,12 @@
 
  <h2> Um pouco sobre mim 👨🏽‍💻</h2>
 
- - 👨🏻‍💻 &nbsp; Sou desenvolvedor Back-End e um pouco de Front-End em início de jornada, com algumas experiências em Typescript, Javascript, Node.js, React, Tailwind CSS. Minha caminhada nesse ramo começou desde minha adolescência, quando já tinha interesse em saber como funcionava a internet, como essa parte Web era criada, quem as desenvolvia. Desde então tenho visto maneira de entrar nesse mundo tecnológico, foi ai que decidir fazer o curso de ciência da computação no qual ainda estou cursando. Nele tenho visto tecnologia e ferramentas que agregam meus conhecimentos e rotina diária. Uma pequena observação tambéms tenho uma pequena experiência com back-end, hehehe...
-- 🚀 &nbsp; Atualmente tenho me mantido focado em aprimora meus conhecimentos na linguaguem de Java, TypeScript, Node.js, React.js, entre mais alguma. O percurso tem sido díficil, mas satisfatório em ver que meus esforços estão dando frutos, a cada dia se desafiando em coisas novas e dedicando para manter a limpeza dos meus códigos.
-- 👾 &nbsp; Além da programação também sou apaixonado por games, futebol e séries, são hábitos que costumo fazer quando tenho aquele tempo vago ou para desopilar a mente.
-- 🎸 &nbsp; Também sou toco alguns instrumentos como violão e contrabaixo no grupo de louvor da igreja que frequento, a honra e glória sejam para sempre a nosso Deus.
+ - 👨🏻‍💻 &nbsp; Sou desenvolvedor Back-End, com algumas experiências em Typescript, Javascript, PHP, Node.js, Java, Spring Boot. Minha caminhada nesse ramo começou desde minha adolescência, quando já tinha interesse em saber como funcionava a internet, como essa parte Web era criada, quem as desenvolvia. Desde então tenho visto maneira de entrar nesse mundo tecnológico, foi ai que decidir fazer o curso de ciência da computação no qual ainda estou cursando. Nele tenho visto tecnologia e ferramentas que agregam meus conhecimentos e rotina diária.
+- 🚀 &nbsp; Atualmente tenho me mantido focado em aprimora meus conhecimentos na linguaguem de Java, TypeScript, Node.js, entre mais alguma. O percurso tem sido díficil, mas satisfatório em ver que meus esforços estão dando frutos, a cada dia se desafiando em coisas novas e dedicando para manter a limpeza dos meus códigos.
+- 👾 &nbsp; Além da programação também sou apaixonado por games, futebol e música, são hábitos que costumo fazer quando tenho aquele tempo vago ou para desopilar a mente.
+- 🎸 &nbsp; Também toco alguns instrumentos como violão e contrabaixo no grupo de louvor da igreja que frequento, a honra e glória sejam para sempre a nosso Deus.
 
 <h2>⚔️ Languague and Tools</h2>
-<h3>💻 &nbsp;Front-end:</h3>
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 
 <h3>⚙️ &nbsp;Back-end:</h3>
 
